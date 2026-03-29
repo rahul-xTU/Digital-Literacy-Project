@@ -16,7 +16,9 @@ Thank you very much for your time and understanding. I have attached my current 
 Sincerely,
 
 Aelugu Rahul
+
 25MIM10166
+
 INT MTECH AI
 
 
@@ -37,6 +39,8 @@ I have attached my resume for your review. I would welcome the opportunity to br
 Best regards,
 
 Aelugu Rahul
+
 www.linkedin.com/in/rahul-aelugu-6b54113bb
+
 6281120316
 
