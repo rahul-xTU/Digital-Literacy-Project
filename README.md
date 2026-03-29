@@ -34,8 +34,8 @@ report/
 - Contains the final, consolidated Project Report summarizing my findings and reflections across all tasks.
 
 Important Links
-- Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/1dCb4JR2aSvnt6f4XT2np_FTHAm49kAYd6KjZh7XpgQA/edit
-- My LinkedIn Profile: https://www.linkedin.com/in/harsha-sivarama-kumar-guptha-polisetty-636a5337a/
+- Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/e/1FAIpQLSdfK8XNx7HVdYZ5aOc6IfrOpFUDMUrc9bNeMmvJTK63_5kkCA/viewform?usp=publish-editor
+- My LinkedIn Profile:www.linkedin.com/in/rahul-aelugu-6b54113bb
   
 Tools and Platforms Used:
 
