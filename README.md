@@ -36,6 +36,7 @@ report/
 Important Links
 - Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/e/1FAIpQLSdfK8XNx7HVdYZ5aOc6IfrOpFUDMUrc9bNeMmvJTK63_5kkCA/viewform?usp=publish-editor
 - My LinkedIn Profile:www.linkedin.com/in/rahul-aelugu-6b54113bb
+- My Github Profile: https://github.com/rahul-xTU
   
 Tools and Platforms Used:
 
